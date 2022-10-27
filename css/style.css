@@ -133,9 +133,14 @@ h1{
 
 footer{
     background-color: #778a50;
-    color: #edf2c5;
     font-size: 12px;
     text-align: center;
-    padding-top: 30px;
+    line-height: 60px;
     height: 60px;
+}
+footer p{
+    display: inline-block;
+    vertical-align: middle;
+    background-color: #778a50;
+    color: #edf2c5;
 }
